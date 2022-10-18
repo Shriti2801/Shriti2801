@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shriti
 - 👀 I’m interested in programming, surfing, photography, travelling and adventures.
 - 🌱 I’m currently learning languages to program.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 💞️ I’m looking to collaborate on interesting projects in my feild.
 - 📫 Reach me via email - shriti2018@gmail.com
 
 <!---
